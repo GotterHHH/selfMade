@@ -2,8 +2,8 @@
 //  main.cpp
 //  selfMade
 //
-//  Created by 客人用户 on 10/4/17.
-//  Copyright © 2017年 yhanag. All rights reserved.
+//  Created by yhanag on 10/4/17.
+//  Copyright © 2017 yhanag. All rights reserved.
 //
 
 #include <iostream>
